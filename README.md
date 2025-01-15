@@ -8,6 +8,7 @@ Projects
 
 [Store_calculator]: this is a simple Kirana store receipt generator which will add the price of amount until user presses quit(q).
 
+[dice simulator]: This is a simple dice simulator where user can roll the dice and get the output.
 
 Getting Started
 
