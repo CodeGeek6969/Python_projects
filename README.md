@@ -14,7 +14,7 @@ Getting Started
 
 Clone this repository:
 
-git clone https://github.com/CodeGeek6969/your-repository-name.git
+git clone https://github.com/CodeGeek6969/Python_projects.git
 
 Run the project:
 
