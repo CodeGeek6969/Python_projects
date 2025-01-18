@@ -10,6 +10,8 @@ Projects
 
 [dice simulator]: This is a simple dice simulator where user can roll the dice and get the output.
 
+[shedular] : this is a simple notification program in python which will give notifation while the python script is running.
+
 Getting Started
 
 Clone this repository:
