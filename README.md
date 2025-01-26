@@ -12,6 +12,8 @@ Projects
 
 [shedular] : this is a simple notification program in python which will give notifation while the python script is running.
 
+[prime_number] : this will display all the prime no. between 1 to 100. the code is effective yet simple to understand
+
 Getting Started
 
 Clone this repository:
